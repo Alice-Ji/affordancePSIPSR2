@@ -164,7 +164,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-11.jpg?raw=true",
     ],
     caption:
-      "This is my bike that I built with Kazuya and Sakmo a few years ago.\nI got interested in motorcycles because of the anime AKIRA.I wanted to ride a futuristic bike like that.\nHowever, if the design was too similar to AKIRA, it would be boring, so we tried to come up with our own ideas.\nIt took all kinds of trial and error .The motorcycle is powered by an amber with a blue bee inside.\n\nYou don't get it, do you?LOL 🐝 \nI wonder if anyone who knows what I'm talking about can understand?I don't think you need to know that much 😎.\nI actually made this one 3 years ago already, but for some reason I didn't upload it, so I just uploaded it now: 🏍️\n\nBooooooo 🏍️🐝",
+      "This is my bike that I built with Kazuya and Sakmo a few years ago.\nI got interested in motorcycles because of the anime AKIRA.I wanted to ride a futuristic bike like that.\nHowever, if the design was too similar to AKIRA, it would be boring, so we tried to come up with our own ideas.\nIt took all kinds of trial and error .The motorcycle is powered by an amber with a blue bee inside.\n\nIt’s a joke not a lot of people getLOL 🐝 \nI wonder if anyone who knows what I'm talking about can understand?I don't think it’s that deep😎.\nI actually made this one 3 years ago already, but for some reason I didn't upload it, so I just uploaded it now: 🏍️\n\nBooooooo 🏍️🐝",
     likes: 0,
     liked: false,
     comments: [],
@@ -190,7 +190,7 @@ const posts = [
     media: [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-13.jpg?raw=true",
     ],
-    caption: "Thank you everyone 💗🧠🌸",
+    caption: "TYSM everyone 💗🧠🌸",
     likes: 0,
     liked: false,
     comments: [],
@@ -295,7 +295,7 @@ const posts = [
     media: [
       "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-1.mp4",
     ],
-    caption: "Alright, here’s a question.\nWhat do you think is being used?",
+    caption: "Alright, here’s a question.\nGuess what is being used?",
     likes: 0,
     liked: false,
     comments: [],
@@ -374,7 +374,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-7.mp4",
     ],
     caption:
-      "It's hard to convey feelings.\nMay this world be as peaceful as possible. 🕊️🧠\n\nNow, I will continue to take on various challenges in 2025!\nAs many challenges as there are failures.I heard that the more failures you have, the more you can get something big.\n\nSo I will learn a lot from my many failures.\n\nI will be releasing many projects soon, so please watch out for them 🧠⚡️🤍",
+      "It's hard to convey feelings. May this world be as peaceful as possible. 🕊️🧠\n\nNow, I will continue to take on various challenges in 2025!\nAs many challenges as there are failures. I heard that the more failures one has, the more one can get something big.\n\nSo I will learn a lot from my many failures.\n\nI will be releasing many projects soon, so please watch out for them 🧠⚡️🤍",
     likes: 0,
     liked: false,
     comments: [],
@@ -561,7 +561,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-1.2.jpg?raw=true",
     ],
     caption:
-      "Water.\nWater And Send from Outer Space.\nDo you know the book?\nHas anyone read it?\nI don't know, there are a lot of opinions out there, but I personally think it's kind of cool: ❄️\nBecause it's hard to prove or even explain human beings themselves, as hard as it is to prove or explain the 3rd dimension, or the 4th dimension.\nThere are so many things we don't understand that we can't always deny everything.\nAh, isn't it fun?\nEarth is fun.🌏",
+      "Water.\nWater And Send from Outer Space.\nAnyone knows what book this is?\nHas anyone read it?\nI don't know, there are a lot of opinions out there, but I personally think it's kind of cool: ❄️\nBecause it's hard to prove or even explain human beings themselves, as hard as it is to prove or explain the 3rd dimension, or the 4th dimension.\nThere are so many things we don't understand that we can't always deny everything.\nAh, isn't it fun?\nEarth is fun.🌏",
     likes: 0,
     liked: false,
     comments: [],
@@ -578,7 +578,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.3.jpg?raw=true",
     ],
     caption:
-      "Glasses collaboration with nrvss.ingot NRVSS is a special design glasses brand handmade by designer relessgraphics \nFrom the first time I saw it, I was blown away by the stainless steel design I've never seen before. It's a super awesome brand that reuses deadstock frames when you talk about them more and more, or the designs are actually influenced by anime, and the stories come out more and more when you talk.",
+      "Glasses collaboration with nrvss.ingot NRVSS is a special design glasses brand handmade by designer relessgraphics \nFrom the first time I saw it, I was blown away by the stainless steel design I've never seen before. It's a super awesome brand that reuses deadstock frames.\nThe designs are actually influenced by anime!",
     likes: 0,
     liked: false,
     comments: [],
