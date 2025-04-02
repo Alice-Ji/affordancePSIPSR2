@@ -877,6 +877,19 @@ const posts = [
     profilePic:
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
   },
+  {
+    type: "image",
+    username: "imma.gram",
+    media: [
+      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-ad-image-JBL.jpg?raw=true",
+    ],
+    caption: "It's time to feel alive, feel the music, feel the vibe!",
+    likes: 0,
+    liked: false,
+    comments: [],
+    profilePic:
+      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+  },
 ];
 
 //setupVideoAutoplay
