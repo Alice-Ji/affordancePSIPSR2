@@ -575,10 +575,9 @@ const posts = [
     media: [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.1.jpg?raw=true",
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.3.jpg?raw=true",
     ],
     caption:
-      "Glasses collaboration with nrvss.ingot NRVSS is a special design glasses brand handmade by designer relessgraphics \nFrom the first time I saw it, I was blown away by the stainless steel design I've never seen before. It's a super awesome brand that reuses deadstock frames.\nThe designs are actually influenced by anime!",
+      "Zen-——\nI went to temple and chanted sutras.\nI’d heard them before, but it was my first time actually reciting them myself.\nIt’s like I finally understood how humans lose themselves and feel a sense of unity.\nIt felt like the boundary between me and the person next to me just disappeared.",
     likes: 0,
     liked: false,
     comments: [],
@@ -593,8 +592,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-3.1.jpg?raw=true",
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-3.2.jpg?raw=true",
     ],
-    caption:
-      "・\nNEW GLASSES\nMade using frames from recycled glasses\nHand made 1 by 1 using heavy duty stainless design.\nThe 3D modeled glasses are all a bit different - that’s how we tell our story.\n・",
+    caption: "Friends who ramen together stay together 🍜👯🧠",
     likes: 0,
     liked: false,
     comments: [],
@@ -836,7 +834,7 @@ const posts = [
       "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-18.2.jpg?raw=true",
     ],
     caption:
-      "Thx Bape Japan for inviting me to their first Shanghai show 🙏 been flying around so much lately !\nIs it the same for everyone ? No more staying in one place?",
+      "🙏 I've been flying around so much lately !\nIs it the same for everyone ? No more staying in one place?",
     likes: 0,
     liked: false,
     comments: [],
