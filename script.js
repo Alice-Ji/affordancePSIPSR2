@@ -27,7 +27,7 @@ const posts = [
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-1.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-1.jpg",
     ],
     caption:
       "Enrolling in school.. at last 😎📚🧠\nDoes it suit me?\nI’m doing an exhibition with my Taipei friends, I’ll post about it soon! 👩‍💻",
@@ -35,13 +35,13 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-2.jpg",
     ],
     caption:
       "They made a huge rug of me🪢🧞‍♂️👼🏻🧠\nWhere and how to use it?\n\nWell, I’m the type to make it first.",
@@ -49,39 +49,39 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-3.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-3.jpg",
     ],
     caption: "Guess what he’s making🤔",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-4.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-4.jpg",
     ],
     caption: "⚡️⚜️Lost my face for the PRE55URE",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-5.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-5.jpg",
     ],
     caption:
       "I was recently in Dubai 🇦🇪🧠.\n\nWorldgovsummit, a summit inviting heads of state from 150 countries. Entrepreneurs, prime ministers and princes of various countries, inventors, etc. It was a really valuable experience and I am grateful for all the wonderful encounters ᘎ🧠.\n\nThe trip made me want to visit more and more countries.\nThe world is still so big🌏",
@@ -89,39 +89,39 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-6.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-6.jpg",
     ],
     caption: "Definitely NOT a summit",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-7.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-7.jpg",
     ],
     caption: "Fast car faster life🏎️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-8.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-8.jpg",
     ],
     caption:
       "There are a lot of mysteries in this picture😇\nI'm moving on to the next stage 🧠.",
@@ -129,39 +129,39 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-9.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-9.jpg",
     ],
     caption: "SO MUCH WORK😑",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-10.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-10.jpg",
     ],
     caption: "🎨🧸❤️‍🔥🧬🔮💸🪫🚁🎲",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-11.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-11.jpg",
     ],
     caption:
       "This is my bike that I built with Kazuya and Sakmo a few years ago.\nI got interested in motorcycles because of the anime AKIRA.I wanted to ride a futuristic bike like that.\nHowever, if the design was too similar to AKIRA, it would be boring, so we tried to come up with our own ideas.\nIt took all kinds of trial and error .The motorcycle is powered by an amber with a blue bee inside.\n\nIt’s a joke not a lot of people getLOL 🐝 \nI wonder if anyone who knows what I'm talking about can understand?I don't think it’s that deep😎.\nI actually made this one 3 years ago already, but for some reason I didn't upload it, so I just uploaded it now: 🏍️\n\nBooooooo 🏍️🐝",
@@ -169,65 +169,65 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-12.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-12.jpg",
     ],
     caption: "I didn't even have time to dress up this year🎃💦",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-13.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-13.jpg",
     ],
     caption: "TYSM everyone 💗🧠🌸",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-14.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-14.jpg",
     ],
     caption: "pon pon pon pon?",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-15.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-15.jpg",
     ],
     caption: "She drew her and I on a T-shirt 🫣👯‍♀️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-16.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-16.jpg",
     ],
     caption:
       "What’s the Tokyo club that’s on my mind right now?\n Hint: it’s where the feltzine party is tonight 💭⚡️🙀",
@@ -235,143 +235,143 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-17.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-17.jpg",
     ],
     caption: "New swimsuit. Check it out.",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-18.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-18.jpg",
     ],
     caption: "dailies…",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-19.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-19.jpg",
     ],
     caption: "I have no valentines so I made gloves to keep me warm…",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-image-20.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-image-20.jpg",
     ],
     caption: "Quality time w. 🐶",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-1.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-1.mp4",
     ],
     caption: "Alright, here’s a question.\nGuess what is being used?",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-2.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-2.mp4",
     ],
     caption: "CAME WITH THE HEAT🔥🥵🔥 \nARIGATO",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-3.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-3.mp4",
     ],
     caption: "NEW SONG TEASER\nstay tuned",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-4.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-4.mp4",
     ],
     caption: "Glass or distorting mirror?",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-5.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-5.mp4",
     ],
     caption: "New Glasses, Who Dis?™️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-6.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-6.mp4",
     ],
     caption: "VROOM VROOM",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-7.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-7.mp4",
     ],
     caption:
       "It's hard to convey feelings. May this world be as peaceful as possible. 🕊️🧠\n\nNow, I will continue to take on various challenges in 2025!\nAs many challenges as there are failures. I heard that the more failures one has, the more one can get something big.\n\nSo I will learn a lot from my many failures.\n\nI will be releasing many projects soon, so please watch out for them 🧠⚡️🤍",
@@ -379,13 +379,13 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-8.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-8.mp4",
     ],
     caption:
       "I’m nervous lately 🫢\n\nI want people to understand me more, so I’m going to start a YouTube. Subscribe to me there !",
@@ -393,39 +393,39 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-9.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-9.mp4",
     ],
     caption: "Scene 1 Take 1",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-10.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-10.mp4",
     ],
     caption: "Between sets 👧🏻",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-11.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-11.mp4",
     ],
     caption:
       "Kyoto trip ⛩️⚡️🌸\nBut Ppl jumped off of here ? 😱⚡️🤨\nLearning about Japanese history is always interesting but sometimes… bizarre facts come out.. I started reading into one of the most famous tourist spots the kiyomizu temple when I visited Kyoto and yeah.. people jumped off here (and mostly survived!) to make a wish 😱 I’m glad I’m alive now when my wish is in a form of the Amazon wish list… 🤭",
@@ -433,13 +433,13 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-12.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-12.mp4",
     ],
     caption:
       "Interviewing Steve Aoki\nI was too nervous 😫\nWhat should I ask next when I see him???",
@@ -447,118 +447,118 @@ const posts = [
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-13.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-13.mp4",
     ],
     caption: "Took a pic with Alla !!\nBut wait…?!? 👍❤️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-14.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-14.mp4",
     ],
     caption: "Which one is the real me?",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-15.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-15.mp4",
     ],
     caption: "been pretty busy these dayss 💭⚡️🤯",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-16.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-16.mp4",
     ],
     caption: "Jumping on the tiktok filter bandwagon📱💅🏻",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-17.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-17.mp4",
     ],
     caption: "HE—LLO—",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-18.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-18.mp4",
     ],
     caption: "I looove her songs!!! Thx oshuclips for stopping me 🎧⚡️❤️",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-19.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-19.mp4",
     ],
     caption: "My first time going to fashion week 👠 LOVING THE DESIGNS",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "video",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/raw/refs/heads/main/imma-video-20.mp4",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-video-20.mp4",
     ],
     caption: "BEANIE BABE",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-1.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-1.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-1.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-1.2.jpg",
     ],
     caption:
       "Water.\nWater And Send from Outer Space.\nAnyone knows what book this is?\nHas anyone read it?\nI don't know, there are a lot of opinions out there, but I personally think it's kind of cool: ❄️\nBecause it's hard to prove or even explain human beings themselves, as hard as it is to prove or explain the 3rd dimension, or the 4th dimension.\nThere are so many things we don't understand that we can't always deny everything.\nAh, isn't it fun?\nEarth is fun.🌏",
@@ -567,14 +567,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-2.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-2.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-2.2.jpg",
     ],
     caption:
       "Zen-——\nI went to temple and chanted sutras.\nI’d heard them before, but it was my first time actually reciting them myself.\nIt’s like I finally understood how humans lose themselves and feel a sense of unity.\nIt felt like the boundary between me and the person next to me just disappeared.",
@@ -583,14 +583,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-3.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-3.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-3.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-3.2.jpg",
     ],
     caption: "Friends who ramen together stay together 🍜👯🧠",
     likes: 0,
@@ -598,14 +598,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-4.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-4.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-4.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-4.2.jpg",
     ],
     caption: "This is how the world is made🌏🧠⚡️",
     likes: 0,
@@ -613,16 +613,16 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-5.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-5.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-5.3.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-5.4.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-5.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-5.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-5.3.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-5.4.jpg",
     ],
     caption: "congratulations🧠⚡️🤍",
     likes: 0,
@@ -630,14 +630,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-6.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-6.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-6.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-6.2.jpg",
     ],
     caption: "Recent Myself👯‍♀️💨",
     likes: 0,
@@ -645,15 +645,15 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-7.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-7.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-7.3.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-7.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-7.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-7.3.jpg",
     ],
     caption:
       "Happy New Year? Has anyone seen the commercial?\nIt’s my first time staring in a cable TV commercial☺️\n\nWhile I have done this before overseas, it’s actually my first time in Japan☺️!",
@@ -662,15 +662,15 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-8.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-8.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-8.3.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-8.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-8.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-8.3.jpg",
     ],
     caption:
       "happy holidays🎄\nLet's spend Christmas in Tokyo in pink🌸\nTokyo is fun after all😂.",
@@ -679,14 +679,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-9.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-9.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-9.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-9.2.jpg",
     ],
     caption:
       "I went to the Torinoichi at the Otori Shrine in Asakusa. ⛩️\nI bought a bamboo rake（kumade）at Yoshida, one of the oldest families making kumade! we go every year with people from our company Aww🤤.\nThe bamboo kumade are so cute!\n\nAnyone who went to the Torinoichi market 🤚🏻?",
@@ -695,16 +695,16 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-10.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-10.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-10.3.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-10.4.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-10.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-10.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-10.3.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-10.4.jpg",
     ],
     caption: "Mohawk WHO🤡",
     likes: 0,
@@ -712,14 +712,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-11.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-11.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-11.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-11.2.jpg",
     ],
     caption:
       "So it’s been a minute since my hairstyle changed but someone made a hat of my original hair\nWell, he was the one that stole my bob hair in the first place to make this… but …\nThe beanie’s pretty fire ? So should I say thank you? 🙄",
@@ -728,16 +728,16 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-12.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-12.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-12.3.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-12.4.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-12.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-12.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-12.3.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-12.4.jpg",
     ],
     caption:
       "I don’t know where my pink bob hair is.\nBut now I’m thinking… I fit other hairstyles too?\nSo now I’m fantasizing 😳💭🧠",
@@ -746,14 +746,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-13.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-13.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-13.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-13.2.jpg",
     ],
     caption: "Happy Birthday Dear Emi ㊗️🎂🐈\n\n I wanna eat RAMEN 🍜",
     likes: 0,
@@ -761,14 +761,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-14.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-14.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-14.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-14.2.jpg",
     ],
     caption: "I looovee her songs! Guess who?✌️❤️🎧",
     likes: 0,
@@ -776,14 +776,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-15.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-15.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-15.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-15.2.jpg",
     ],
     caption: "🍬🍜🛒👩🏻‍🦰👨🏻‍🦰✨",
     likes: 0,
@@ -791,15 +791,15 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-16.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-16.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-16.3.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-16.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-16.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-16.3.jpg",
     ],
     caption:
       "In Paris ✈️⚡️🧠\ndoublet ss 2025🏮🪭🎎🎀🇯🇵\nust in time to catch the Doublet collection\nWhere I’m… I’m on the runway too?\nAs a bag? Awwwww such an honor !!! ❤️❤️❤️",
@@ -808,14 +808,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-17.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-17.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-17.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-17.2.jpg",
     ],
     caption:
       "Bape japan has a cafe in Shanghai ? ☕️⚡️🧠\nTook a first look 👀",
@@ -824,14 +824,14 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-18.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-18.2.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-18.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-18.2.jpg",
     ],
     caption:
       "🙏 I've been flying around so much lately !\nIs it the same for everyone ? No more staying in one place?",
@@ -840,16 +840,16 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-19.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-19.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-19.3.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-19.4.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-19.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-19.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-19.3.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-19.4.jpg",
     ],
     caption: "day with the pink gals 🌸🌙🥺\nNever blended in this good 😳",
     likes: 0,
@@ -857,15 +857,15 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "carousel",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-20.1.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-20.2.jpg?raw=true",
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-carouse-20.3.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-20.1.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-20.2.jpg",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-carouse-20.3.jpg",
     ],
     caption: "🧠❤️🎃",
     likes: 0,
@@ -873,20 +873,20 @@ const posts = [
     comments: [],
     currentIndex: 0, // Track which image is showing in the carousel
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
   {
     type: "image",
     username: "imma.gram",
     media: [
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-ad-image-JBL.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-ad-image-JBL.jpg",
     ],
     caption: "[Sponsored by JBL]\nIt's time to feel alive, feel the music, feel the vibe!",
     likes: 0,
     liked: false,
     comments: [],
     profilePic:
-      "https://github.com/Alice-Ji/affordancePSIPSR2/blob/main/imma-avatar.jpg?raw=true",
+      "https://raw.githubusercontent.com/Alice-Ji/affordancePSIPSR2/main/imma-avatar.jpg",
   },
 ];
 
@@ -997,15 +997,15 @@ function renderFeed() {
       ${mediaContent}
       <p>${post.caption.replace(/\n/g, "<br>")}</p>
       <div class="post-actions">
-          <img id="like-btn-${index}" src="https://github.com/ruochongji/affordancePSIPSR/blob/main/ins-like1.png?raw=true" 
+          <img id="like-btn-${index}" src="https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/ins-like1.png" 
                alt="Like" class="action-icon" onclick="window.likePost(${index})">
-          <img id="comment-btn-${index}" src="https://github.com/ruochongji/affordancePSIPSR/blob/main/ins-comment.png?raw=true"
+          <img id="comment-btn-${index}" src="https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/ins-comment.png"
                alt="Comment" class="action-icon" onclick="window.toggleComment(${index})">
       </div>
       <div id="comment-section-${index}" class="comment-section hidden">
           <div class="comment-input-container">
               <input type="text" id="comment-input-${index}" placeholder="Add a comment...">
-              <img id="send-comment-${index}" src="https://github.com/ruochongji/affordancePSIPSR/blob/main/ins-sendcomment.png?raw=true" 
+              <img id="send-comment-${index}" src="https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/ins-sendcomment.png" 
                    alt="Send" class="send-icon" onclick="window.addComment(${index})">
           </div>
           <ul id="comments-${index}"></ul>
@@ -1085,13 +1085,13 @@ window.likePost = function (index) {
     posts[index].liked = true;
     likeCount++; // Increase total like count
     likeBtn.src =
-      "https://github.com/ruochongji/affordancePSIPSR/blob/main/ins-like2.png?raw=true";
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/ins-like2.png";
   } else {
     posts[index].likes--;
     posts[index].liked = false;
     likeCount--; // Decrease total like count if unliked
     likeBtn.src =
-      "https://github.com/ruochongji/affordancePSIPSR/blob/main/ins-like1.png?raw=true";
+      "https://raw.githubusercontent.com/ruochongji/affordancePSIPSR/main/ins-like1.png";
   }
   // ✅ Send updated data to Qualtrics on every like
   sendCommentsToQualtrics();
